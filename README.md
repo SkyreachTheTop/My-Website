@@ -1,1 +1,2 @@
 # My-Website
+<!DOCTYPE html><html><head><title>Ashad Web</title><style>body{font-family:sans-serif;text-align:center;background:#f5f5f5}h1{color:#333}a{padding:10px 20px;background:#000;color:#fff;text-decoration:none;border-radius:5px}</style></head><body><h1>Welcome to My Portfolio</h1><p>I build clean websites for small businesses</p><a href="mailto:youremail@gmail.com">Contact Me</a></body></html>
